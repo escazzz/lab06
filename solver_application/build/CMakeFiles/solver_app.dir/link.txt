@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/solver_app.dir/equation.cpp.o -o solver_app  libformatter_ex_lib.a libsolver.a libformatter_lib.a 

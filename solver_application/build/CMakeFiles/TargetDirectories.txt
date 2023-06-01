@@ -1,0 +1,6 @@
+/home/alina/lab3/solver_application/build/CMakeFiles/formatter_lib.dir
+/home/alina/lab3/solver_application/build/CMakeFiles/solver.dir
+/home/alina/lab3/solver_application/build/CMakeFiles/formatter_ex_lib.dir
+/home/alina/lab3/solver_application/build/CMakeFiles/solver_app.dir
+/home/alina/lab3/solver_application/build/CMakeFiles/edit_cache.dir
+/home/alina/lab3/solver_application/build/CMakeFiles/rebuild_cache.dir

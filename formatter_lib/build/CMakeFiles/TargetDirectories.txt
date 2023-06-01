@@ -1,0 +1,3 @@
+/home/alina/lab3/formatter_lib/build/CMakeFiles/formatter.dir
+/home/alina/lab3/formatter_lib/build/CMakeFiles/edit_cache.dir
+/home/alina/lab3/formatter_lib/build/CMakeFiles/rebuild_cache.dir
